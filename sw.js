@@ -3,7 +3,9 @@ var filesToCache = [
   '/pwa2/',
   '/pwa2/index.html',
   '/pwa2/css/style.css',
-  '/pwa2/js/main.js'
+  '/pwa2/js/main.js',
+  '/pwa2/js/jquery.js'
+
 ];
 
 /* Start the service worker and cache all of the app's content */
